@@ -16,4 +16,6 @@ The project is composed of three parts:
 2) Visual target tracking
 3) Visual servoing
 
-Enjoy!
+Demo : 
+
+![](https://github.com/ZakariaBOUZIT/Visual-servoing/blob/master/Demo.gif)
